@@ -1,5 +1,10 @@
 pandas
+matplotlib
 
 sagemaker
+s3fs
 
 ipykernel
+
+# Tool for diffing Jupyter notebooks
+nbdime
